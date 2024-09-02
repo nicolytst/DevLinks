@@ -41,12 +41,12 @@ body * {
 /*profile*/
 #profile {
   text-align: center;
-  padding: 24px;
+  padding: 30px;
 
 }
 
 #profile img {
-  width: 112px;
+  width: 150px;
 }
 
 #profile p {
@@ -81,8 +81,6 @@ body * {
 }
 #switch button:hover{
   outline: 8px solid var(--highlight-color);
-
-
 }
 
 #switch span {
@@ -186,6 +184,5 @@ footer {
 
 
 }
-
 
 
