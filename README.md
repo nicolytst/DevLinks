@@ -40,4 +40,4 @@ Esse projeto está sob a licença MIT. Sinta-se à vontade para utilizá-lo e ad
 
 ---
 
-Feito com ♥ por [Nicoly](link-do-seu-perfil)
+Feito com ♥ por [Nicoly](https://www.linkedin.com/in/nicoly-thereza-a96391285/)
